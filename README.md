@@ -63,9 +63,9 @@ Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle** to buil
 📂 Files: [`task-2-portfolio/`](./task-2-portfolio/)
 
 🔗 Links:
-- GitHub: [github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [linkedin.com/in/YOUR_PROFILE](https://linkedin.com/in/YOUR_PROFILE)
-- Kaggle: [kaggle.com/YOUR_USERNAME](https://kaggle.com/YOUR_USERNAME)
+- GitHub: [github.com/YOUR_USERNAME](https://github.com/Chitrakshi96)
+- LinkedIn: [linkedin.com/in/YOUR_PROFILE](www.linkedin.com/in/chitrakshi-chauhan-298473240)
+- Kaggle: [kaggle.com/YOUR_USERNAME](https://www.kaggle.com/chitrakshichauhan)
 
 ---
 
@@ -74,7 +74,7 @@ Completed a beginner coding challenge on **HackerRank** and built a **Google For
 
 📂 Files: [`task-3-platforms/`](./task-3-platforms/)
 
-🔗 Google Form Quiz: [Click here to take the quiz](YOUR_GOOGLE_FORM_LINK)
+🔗 Google Form Quiz: [Click here to take the quiz](https://docs.google.com/forms/d/e/1FAIpQLSdmZY16N1TK8-WuWVhclzq9twOK4aqtdEgG00Cx52_CZrlT8w/viewform?usp=sharing&ouid=117941975393775475791)
 
 ---
 
@@ -110,7 +110,7 @@ Researched and wrote a case study on **Phishing** — how it works, who it targe
 
 ## 📌 Submission
 
-- 🔗 **GitHub Repository:** [github.com/YOUR_USERNAME/digital-literacy-project](https://github.com/YOUR_USERNAME/digital-literacy-project)
+- 🔗 **GitHub Repository:** [github.com/YOUR_USERNAME/digital-literacy-project](https://github.com/Chitrakshi96/digital-literacy-project)
 - 📄 **Project Report:** [`report/Project_Report.pdf`](./report/Project_Report.pdf)
 - 🏫 **Submitted via:** VITyarthi Portal
 
