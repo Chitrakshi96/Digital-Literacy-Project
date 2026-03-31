@@ -116,4 +116,4 @@ Researched and wrote a case study on **Phishing** — how it works, who it targe
 
 ---
 
-*© Chitrakshi chuahan | VIT Bhopal University | CSE0001 Digital Literacy | 2025–26*
+*© Chitrakshi chuahan | VIT Bhopal University | CSE0001 Digital Literacy | 2025–26
